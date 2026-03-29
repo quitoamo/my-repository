@@ -1,0 +1,11 @@
+- name: study
+  color: 0075ca
+  description: 学習
+
+- name: construction
+  color: d876e3
+  description: 構築
+
+- name: work
+  color: cfd3d7
+  description: 仕事
