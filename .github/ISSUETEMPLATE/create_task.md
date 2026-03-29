@@ -11,6 +11,7 @@ assignees: 'quitoamo'
 
 ## ゴール
 <!-- 何を行えばゴールなのか -->
+- [ ] 
 
 ## 関連issue
 
