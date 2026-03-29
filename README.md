@@ -1,2 +1,2 @@
-# my-repository
-amo's repository
+# 概要
+このリポジトリはITの勉強をするための個人リポジトリです。
